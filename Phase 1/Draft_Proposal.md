@@ -16,3 +16,7 @@ To optmize the model if will be using techniques likes hyper parameter tuning us
 **Deployment:(Experimental)** <br> We will try to deploy model and the analysis of the data into web-app through Java spring-boot frame work using microservice architecture.
 <br><br>
 **End Goal:** <br> Our main motive is to successfully predict the stock price of amazon considering the previous trends.
+<br>
+**NOTE:**
+Hopefully, in the next week we will be able to document detailed final funcatanlities of the web-app with initial EDA in jupyter notebook. 
+
