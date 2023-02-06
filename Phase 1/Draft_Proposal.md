@@ -18,5 +18,5 @@ To optmize the model if will be using techniques likes hyper parameter tuning us
 **End Goal:** <br> Our main motive is to successfully predict the stock price of amazon considering the previous trends.
 <br>
 **NOTE:**
-Hopefully, in the next week we will be able to document detailed final funcatanlities of the web-app with initial EDA in jupyter notebook. 
+Hopefully, in the next week we will be able to document detailed functionalities of the web-app with initial EDA in jupyter notebook. 
 
